@@ -1,2 +1,2 @@
 # Java_Script_Learning
-Chai with code 
+Learning javaScript for backend from Chai Aur Code
