@@ -46,3 +46,6 @@ console.log(new Date(2028,10,12,3,45,3).toLocaleString()) //11/12/2028, 3:45:03 
 //JS stores the date in milliseconds(numbers) so to check if time is same or not just euate them 
 
 console.log(new Date().getTime()); //1763374386062 miliseconds have passed since the default date
+
+
+//differet regions use differnet time formats like yyyy/dd/mm , dd/mm/yyyy etc so you need to take in acount of that also
